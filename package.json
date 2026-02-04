@@ -1,0 +1,13 @@
+{
+  "name": "shantonu-deb-babon-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Personal cinematic portfolio website for Senior Video Editor Shantonu Deb Babon.",
+  "scripts": {
+    "dev": "serve .",
+    "start": "serve .",
+    "build": "echo \"Static site – no build step\""
+  },
+  "devDependencies": {}
+}
+
