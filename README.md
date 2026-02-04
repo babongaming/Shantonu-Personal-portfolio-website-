@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Shantonu Deb Babon – Personal Portfolio Website
 
 Premium, dark, cinematic one-page portfolio for **Senior Video Editor – Shantonu Deb Babon**, designed to be fast, minimal in setup, and easy to deploy on **Vercel**.
@@ -53,3 +54,6 @@ Example with **VS Code Live Server** or any simple HTTP server:
 
 After those edits, redeploy to Vercel to publish the updated portfolio.
 
+=======
+# Shantonu-Personal-portfolio-website-
+>>>>>>> 03bc18e8a912b8164a7ff5c47b435f346a3e2bbc
